@@ -12,7 +12,6 @@ def balancedDelimiters(delimitirString):
         return False
     stack = []
     for delimiter in delimitirString:
-
         if delimiter in opening:
             stack.append(delimiter)
         else:
@@ -20,6 +19,5 @@ def balancedDelimiters(delimitirString):
             if delimiter != pairs_opening[opening_delimiter]:
                 return False
     return True
-
 
 print(balancedDelimiters(input()))

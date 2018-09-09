@@ -1,4 +1,4 @@
-#problem desc @ https://www.hackerrank.com/contests/programming-interview-questions/challenges/balanced-delimiters/submissions/code/1310195885
+#problem desc @ https://www.hackerrank.com/contests/programming-interview-questions/challenges/balanced-delimiters/
 
 pairs_opening = {"(":")","[":"]","{":"}"}
 opening = "({["

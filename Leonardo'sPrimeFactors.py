@@ -1,4 +1,5 @@
 #!/bin/python3
+#problem desc @ https://www.hackerrank.com/challenges/leonardo-and-prime/problem
 
 import os
 import sys
